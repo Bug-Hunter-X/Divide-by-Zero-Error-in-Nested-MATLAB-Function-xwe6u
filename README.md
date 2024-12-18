@@ -1,0 +1,1 @@
+This repository contains a MATLAB example demonstrating a common error: division by zero. The main function, myFunction, calls a nested function, someCalculation.  When the input to myFunction is 5, this results in a division by zero in someCalculation.  The solution demonstrates how to prevent this using error handling and input validation.
